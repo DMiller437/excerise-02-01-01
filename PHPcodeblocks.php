@@ -17,6 +17,7 @@
     <body>
         <p>
             <h3>This is my HTML</h3>
+<!--            first test of php-->
             <?php
       echo "This text is displayed using standard PHP script delimiters";
     ?>

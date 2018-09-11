@@ -18,6 +18,7 @@
         <p>
             <h3>This is my HTML</h3>
             <?php
+//        Attempting function calls and then testing how loose PHP is
       echo "The following is a PHP API function call.</br>";
         print "Second String";
         print("<br>Third String");
